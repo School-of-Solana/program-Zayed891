@@ -1,6 +1,6 @@
 # Project Description
 
-**Deployed Frontend URL:** [Ready for Vercel deployment - see DEPLOYMENT_GUIDE.md]
+**Deployed Frontend URL:** https://tipping-sol.vercel.app/
 
 **Solana Program ID (Devnet):** `AxT1CnBJd6rcfhpU41nZSgDfDWtjUJjXUVuxMdt2hbHJ`
 
@@ -107,9 +107,9 @@ anchor test
 ### Deployment Status
 - ✅ **Anchor Program**: Compiled and tested successfully (7/7 tests passing)
 - ✅ **Frontend Build**: Successfully builds without TypeScript errors
+- ✅ **Live Deployment**: Successfully deployed to https://tipping-sol.vercel.app/
 - ✅ **GitHub Repository**: Complete codebase pushed to School-of-Solana/program-Zayed891
 - ✅ **Documentation**: Comprehensive project documentation and deployment guide
-- 🚀 **Ready for Vercel**: Frontend configured for production deployment
 
 ### Project Structure
 ```
